@@ -6,11 +6,11 @@ Base Development Environment used for Tgrid Cloud Computing / Grid Computing res
 
 RESOURCEs:
 
-DockerHub: https://hub.docker.com/r/tgridcloudewsp/ubuntu20.04base
+DockerHub: https://hub.docker.com/r/tgridcloudewsp
 
 GitHub: https://github.com/tgridcloudewsp/DevEnviBASE
 
-GitHubGist: https://gist.github.com/tgridcloudewsp/8f360c22f2efb2e40d9b2a6e4b028de1
+GitHubGist: https://gist.github.com/tgridcloudewsp
 
 ￼
 
